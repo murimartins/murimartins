@@ -2,4 +2,4 @@
 
 - Estudante de Ciência de Dados
 - Python
-  
+- Estagiário na Espaço Sistemas e Pesquisas para Seguros
